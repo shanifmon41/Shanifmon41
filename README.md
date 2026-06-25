@@ -2,7 +2,7 @@
 
 ### Data Analyst · Kerala, India
 
-Data Analyst skilled in SQL, Python, Power BI, and Tableau with a track record of building dashboards, conducting EDA, and generating insights from large datasets. Google Data Analytics certified. Eager to contribute analytical thinking and data storytelling skills to a data-driven team.
+Data Analyst skilled in SQL, Python, Power BI, and Tableau with a track record of building dashboards, conducting EDA, and generating insights from large datasets.Eager to contribute analytical thinking and data storytelling skills to a data-driven team.
 
 ---
 
