@@ -28,12 +28,6 @@ Data Analyst skilled in SQL, Python, Power BI, and Tableau with a track record o
 
 ---
 
-## 📜 Certifications
-
-- Google Data Analytics Professional Certificate — Coursera (2026)
-
----
-
 ## 📫 Connect with me
 
 - 📧 Shanifmon41@gmail.com
